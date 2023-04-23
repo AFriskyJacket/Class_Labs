@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0a76629b-a815-4809-a11d-66d980456d1a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class Labs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/CodingChallange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ControlFlowPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/ArithmeticOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/AssignmentOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/AutoPromoteTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/AutoTypeConversionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/BitwiseOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/CharAtDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/CompareToDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/ConcatDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/ContainsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/EqualsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/EqualsOperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/ExplicitTestDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/IndexOfDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/IsEmptyDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/LengthDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/LogicalOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/RelationalOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/ReplaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/SplitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/StringCompareToDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/StringLowerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/StringUpperDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/SubstringsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/TernaryOperatorDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/TrimDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/UnaryOperatorsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Java_Basic_Variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Java_Operators_and_Numbers.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ObsJKF3V4egk4FB3s7Q3nmCw1H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/jd001/IdeaProjects/Class Labs/src/com/perscholas/java_basics/Demos"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\jd001\IdeaProjects\Class Labs\src\com\perscholas\java_basics\Demos" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.perscholas.java_basics.Demos" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LengthDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java_basics.Demos.LengthDemo" />
+      <module name="Class Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java_basics.Demos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LenthDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java_basics.Demos.LenthDemo" />
+      <module name="Class Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java_basics.Demos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringLowerDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.perscholas.java_basics.Demos.StringLowerDemo" />
+      <module name="Class Labs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.perscholas.java_basics.Demos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringLowerDemo" />
+        <item itemvalue="Application.LengthDemo" />
+        <item itemvalue="Application.LenthDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0a76629b-a815-4809-a11d-66d980456d1a" name="Changes" comment="" />
+      <created>1681840550713</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1681840550713</updated>
+    </task>
+    <servers />
+  </component>
+</project>
