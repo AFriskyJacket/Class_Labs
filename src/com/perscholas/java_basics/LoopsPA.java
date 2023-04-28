@@ -20,8 +20,8 @@ public class LoopsPA {
     }
     private void task_2(){
         Scanner scan = new Scanner(System.in);
-        int x =0;
-        int y = 0;
+        int x;
+        int y;
         try{
             System.out.println("Enter first number");
             x = scan.nextInt();

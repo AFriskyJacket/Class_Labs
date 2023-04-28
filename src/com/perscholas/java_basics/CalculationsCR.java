@@ -19,8 +19,8 @@ public class CalculationsCR {
 }
 // Create interface Calculations
  interface Calculation {
-    public int subtract(int x);
-    public int multiply(int x);
+    int subtract(int x);
+    int multiply(int x);
 }
 // Create class Mathematics
  class Mathematics implements Calculation  {
