@@ -24,7 +24,7 @@ public class PolymorphismAndInheritancePA {
         // We have a problem here!!!
         Monster m4 = new Monster();
         System.out.println(m4.attack());  // garbage!!!
-        }
+    }
 
     private static class Monster {
         protected String attackText = "!^_&^$@+%$* I don't know how to attack!";
@@ -32,7 +32,7 @@ public class PolymorphismAndInheritancePA {
         public Monster() {
         }
 
-        public String attack(){
+        public String attack() {
             return attackText;
         }
     }

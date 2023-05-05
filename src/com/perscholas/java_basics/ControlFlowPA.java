@@ -198,7 +198,7 @@ public class ControlFlowPA {
     private int parseStatus(String status) {
         status.trim();
         status.toLowerCase();
-        if(status.equals("single")) {
+        if (status.equals("single")) {
             return 1;
         } else if (status.equals("married filing jointly")) {
             return 2;
@@ -206,74 +206,85 @@ public class ControlFlowPA {
             return 3;
         } else if (status.equals("head of household")) {
             return 4;
-        } else {System.out.println("filing status misspelled, try again");}
+        } else {
+            System.out.println("filing status misspelled, try again");
+        }
         return 0;
     }
-    private void displayTax(int income, int status){
+
+    private void displayTax(int income, int status) {
         int tax = 0;
-        switch (status){
-            case 1: if (income< 0){
-                System.out.println("invalid income");
-            } else if (income < 8351) {
-                tax = 10;
-            } else if ( income<33951) {
-                tax = 15;
-            } else if (income < 82251) {
-                tax = 25;
-            }else if (income<171551){
-                tax = 28;
-            } else if (income<372951) {
-                tax = 33;
-            } else {
-                tax = 35;
-            } break;
-            case 2: if (income< 0){
-                System.out.println("invalid income");
-            } else if (income < 16701) {
-                tax = 10;
-            } else if ( income<67901) {
-                tax = 15;
-            } else if (income < 137051) {
-                tax = 25;
-            }else if (income<208851){
-                tax = 28;
-            } else if (income<372951) {
-                tax = 33;
-            } else {
-                tax = 35;
-            } break;
-            case 3: if (income< 0){
-                System.out.println("invalid income");
-            } else if (income < 8351) {
-                tax = 10;
-            } else if ( income<33951) {
-                tax = 15;
-            } else if (income < 68526) {
-                tax = 25;
-            }else if (income<104426){
-                tax = 28;
-            } else if (income<186476) {
-                tax = 33;
-            } else {
-                tax = 35;
-            } break;
-            case 4: if (income< 0){
-                System.out.println("invalid income");
-            } else if (income < 11951) {
-                tax = 10;
-            } else if ( income<45501) {
-                tax = 15;
-            } else if (income < 117451) {
-                tax = 25;
-            }else if (income<190201){
-                tax = 28;
-            } else if (income<372951) {
-                tax = 33;
-            } else {
-                tax = 35;
-            } break;
+        switch (status) {
+            case 1:
+                if (income < 0) {
+                    System.out.println("invalid income");
+                } else if (income < 8351) {
+                    tax = 10;
+                } else if (income < 33951) {
+                    tax = 15;
+                } else if (income < 82251) {
+                    tax = 25;
+                } else if (income < 171551) {
+                    tax = 28;
+                } else if (income < 372951) {
+                    tax = 33;
+                } else {
+                    tax = 35;
+                }
+                break;
+            case 2:
+                if (income < 0) {
+                    System.out.println("invalid income");
+                } else if (income < 16701) {
+                    tax = 10;
+                } else if (income < 67901) {
+                    tax = 15;
+                } else if (income < 137051) {
+                    tax = 25;
+                } else if (income < 208851) {
+                    tax = 28;
+                } else if (income < 372951) {
+                    tax = 33;
+                } else {
+                    tax = 35;
+                }
+                break;
+            case 3:
+                if (income < 0) {
+                    System.out.println("invalid income");
+                } else if (income < 8351) {
+                    tax = 10;
+                } else if (income < 33951) {
+                    tax = 15;
+                } else if (income < 68526) {
+                    tax = 25;
+                } else if (income < 104426) {
+                    tax = 28;
+                } else if (income < 186476) {
+                    tax = 33;
+                } else {
+                    tax = 35;
+                }
+                break;
+            case 4:
+                if (income < 0) {
+                    System.out.println("invalid income");
+                } else if (income < 11951) {
+                    tax = 10;
+                } else if (income < 45501) {
+                    tax = 15;
+                } else if (income < 117451) {
+                    tax = 25;
+                } else if (income < 190201) {
+                    tax = 28;
+                } else if (income < 372951) {
+                    tax = 33;
+                } else {
+                    tax = 35;
+                }
+                break;
         }
-        System.out.println("your tax bracket is " +tax + "%");
+        System.out.println("your tax bracket is " + tax + "%");
     }
 }
 

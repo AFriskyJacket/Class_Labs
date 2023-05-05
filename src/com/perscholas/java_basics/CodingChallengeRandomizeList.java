@@ -22,7 +22,7 @@ public class CodingChallengeRandomizeList {
         System.out.println(Arrays.toString(randomNames));
     }
 
-    public  static boolean allTrue(boolean[] checked) {
+    public static boolean allTrue(boolean[] checked) {
         for (boolean checker : checked) {
             if (!checker) {
                 return false;

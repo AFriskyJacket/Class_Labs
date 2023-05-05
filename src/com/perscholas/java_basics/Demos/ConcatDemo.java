@@ -11,7 +11,7 @@ public class ConcatDemo {
         // concatenate str2 and str11
         System.out.println(str2.concat(str1)); // "JavaLearn "
         //--- By using + operator---
-        String s3 =  "hello";
+        String s3 = "hello";
         String s4 = "Learners";
         //  String s5 = s3.concat(s4); or
         String s5 = s3 + s4;

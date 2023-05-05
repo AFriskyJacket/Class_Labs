@@ -1,4 +1,5 @@
 package com.perscholas.java_basics.Demos;
+
 /*
 The substring() method extracts a substring from the string and returns it.
  */

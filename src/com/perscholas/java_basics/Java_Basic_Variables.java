@@ -1,11 +1,9 @@
 package com.perscholas.java_basics;
 
-import org.omg.Messaging.SyncScopeHelper;
-
 import java.math.BigDecimal;
 
 public class Java_Basic_Variables {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         //adding ints
         int f_int = 1;
         int s_int = 2;
@@ -29,16 +27,16 @@ public class Java_Basic_Variables {
         System.out.println(divided_int);
         //int divided_wrong = s_double / f_int; error!
         //System.out.println(divided_wrong);
-        double divided_right = s_double/f_int;
+        double divided_right = s_double / f_int;
         System.out.println(divided_right);
         //double division and type casting
-        double divided_double = s_double/f_double;
+        double divided_double = s_double / f_double;
         System.out.println(divided_double);
         System.out.println((int) divided_double);
         //specified math
         int x = 5;
         int y = 6;
-        double q = y/x;
+        double q = y / x;
         System.out.println(q);
         q = (double) y;
         System.out.println(q);
@@ -54,20 +52,20 @@ public class Java_Basic_Variables {
         BigDecimal totalSale;
         final BigDecimal SALES_TAX = BigDecimal.valueOf(1.00/* Deleware privilege!*/);
         //sale the first
-        subTotal = SubTotal(3,cookie_Cost);
+        subTotal = SubTotal(3, cookie_Cost);
         totalSale = subTotal.multiply(SALES_TAX);
-        System.out.println( totalSale.setScale(2));
+        System.out.println(totalSale.setScale(2));
         //sale the second
         subTotal = SubTotal(4, milk_Cost);
         totalSale = subTotal.multiply(SALES_TAX);
-        System.out.println( totalSale.setScale(2));
+        System.out.println(totalSale.setScale(2));
         //sale the first
         subTotal = SubTotal(2, cheesecake_Cost);
         totalSale = subTotal.multiply(SALES_TAX);
-        System.out.println( totalSale.setScale(2));
-        }
+        System.out.println(totalSale.setScale(2));
+    }
 
-    public static BigDecimal SubTotal(int x, BigDecimal y){
+    public static BigDecimal SubTotal(int x, BigDecimal y) {
         return y.multiply(BigDecimal.valueOf(x));
     }
 

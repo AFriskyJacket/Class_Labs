@@ -1,6 +1,7 @@
 package com.perscholas.java_basics.Demos;
 // importing Arrays to convert array to string
 // used for printing arrays
+
 import java.util.Arrays;
 /*
 The split() method divides the string at the specified regex and returns an array of substrings. The syntax of the string split() method is:

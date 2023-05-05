@@ -1,20 +1,12 @@
 package com.perscholas.java_basics;
 
 public class PolymorphismAndInterfacePA {
-    /*
-    public final String KIDS = "Kids";
-    public final String FICTION = "Fiction";
-    */
-    //changed to use enums instead
-    private enum BookType{
-        KIDS,
-        FICTION
-    }
     public static void main(String[] args) {
         PolymorphismAndInterfacePA practice = new PolymorphismAndInterfacePA();
         practice.test_1();
     }
-    void test_1(){
+
+    void test_1() {
         KidUser kid1 = new KidUser(10);
         KidUser kid2 = new KidUser(18);
 
@@ -32,6 +24,16 @@ public class PolymorphismAndInterfacePA {
 
         adult1.requestBook(BookType.KIDS);
         adult2.requestBook(BookType.FICTION);
+    }
+
+    /*
+    public final String KIDS = "Kids";
+    public final String FICTION = "Fiction";
+    */
+    //changed to use enums instead
+    private enum BookType {
+        KIDS,
+        FICTION
     }
 
     interface LibraryUser {
@@ -69,6 +71,7 @@ public class PolymorphismAndInterfacePA {
             }
         }
     }
+
     class AdultUser implements LibraryUser {
         private int age;
         private BookType bookType;

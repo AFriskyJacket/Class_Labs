@@ -1,4 +1,5 @@
 package com.perscholas.java_basics.Demos;
+
 /*
 The Java String compareTo() method compares the given string with the current string. It is a method of ‘Comparable’
 interface that is implemented by the String class. It either returns a positive number, a negative number, or 0.

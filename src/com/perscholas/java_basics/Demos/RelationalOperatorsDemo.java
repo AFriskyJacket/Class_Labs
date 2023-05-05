@@ -15,8 +15,8 @@ public class RelationalOperatorsDemo {
         System.out.println("variable1 = " + variable1);
         System.out.println("variable2 = " + variable2);
         System.out.println("variable3 = " + variable3);
-        System.out.println("variable1 == variable2: "+ (variable1 == variable2));
-        System.out.println("variable1 == variable3: "+ (variable1 == variable3));
+        System.out.println("variable1 == variable2: " + (variable1 == variable2));
+        System.out.println("variable1 == variable3: " + (variable1 == variable3));
 
     }
 }
