@@ -2,10 +2,6 @@ package com.perscholas.java_basics.hackerrank_oop_sba_sportInher;
 
 // <<<<<======== Click here to expand the locked stub code
 import java.util.*;
-import java.util.function.Consumer;
-import java.util.function.IntFunction;
-import java.util.function.UnaryOperator;
-
 interface Sport{
     void calculateAvgAge(int[] age);
     void retirePlayer(int id);
@@ -38,7 +34,8 @@ class Cricket implements Sport{
     }
     @Override
     public void calculateAvgAge(int[] age){
-        System.out.printf("The average age of the team is %.2f%n", Double.valueOf(Arrays.stream(age).average().getAsDouble()));
+        //noinspection OptionalGetWithoutIsPresent
+        System.out.printf("The average age of the team is %.2f%n", Arrays.stream(age).average().getAsDouble());
     }
     @Override
     public void retirePlayer(int id){
@@ -64,7 +61,7 @@ class Football implements Sport {
 
     @Override
     public void calculateAvgAge(int[] age) {
-        System.out.printf("The average age of the team is %.2f%n", Double.valueOf(Arrays.stream(age).average().getAsDouble()));
+        System.out.printf("The average age of the team is %.2f%n", Arrays.stream(age).average().getAsDouble());
     }
 
     @Override

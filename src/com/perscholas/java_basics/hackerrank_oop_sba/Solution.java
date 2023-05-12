@@ -54,7 +54,7 @@ class ArrayToList implements MyList {
 
     @Override
     public ArrayList<String> compact() {
-        arrayToList.removeAll(Arrays.asList(""));
+        arrayToList.removeAll(Collections.singletonList(""));
         return arrayToList;
     }
 }

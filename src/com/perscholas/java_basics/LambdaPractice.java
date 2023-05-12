@@ -19,11 +19,11 @@ public class LambdaPractice {
         names.forEach(n -> System.out.println(names.indexOf(n) + " " + n ));
         names.forEach(n -> System.out.println(n.toUpperCase()));
 
-        AddTwoNumbers numbers = (x,y) -> {return x+y;};
+        AddTwoNumbers numbers = (x,y) -> x+y;
         System.out.println(numbers.adds(2,3));
-        numbers = (x,y)->{return x-y;};
+        numbers = (x,y)-> x-y;
         System.out.println(numbers.adds(2,3));
-        MyNumber showIt = x -> {return x;};
+        MyNumber showIt = x -> x;
         System.out.println(showIt.showNumber(5));
     }
 
