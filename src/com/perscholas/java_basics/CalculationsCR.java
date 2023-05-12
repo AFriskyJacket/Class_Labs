@@ -50,10 +50,10 @@ class Mathematics implements Calculation {
     private ArrayList<Integer> breaker(int x) {
         int y = x;
         ArrayList<Integer> ans = new ArrayList<>();
-        ans.add(y % 10);
+        ans.add(Integer.valueOf(y % 10));
         while (y >= 10) {
             y = y / 10;
-            ans.add(y % 10);
+            ans.add(Integer.valueOf(y % 10));
         }
         Collections.reverse(ans);
         return ans;

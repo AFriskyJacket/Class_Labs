@@ -4,38 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a76629b-a815-4809-a11d-66d980456d1a" name="Changes" comment="Week 3 Work done">
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Formatting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/GenericsEL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Null_PTR_Labs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ParkingInterface_CR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/func_interface_mylabs_POC.java" afterDir="false" />
+    <list default="true" id="0a76629b-a815-4809-a11d-66d980456d1a" name="Changes" comment="Week 4 Work done">
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/LambdaPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/hackerrank_oop_sba/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/hackerrank_oop_sba_sportInher/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/ArrayAverageCB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ArrayAverageCB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/ArrayPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ArrayPA.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/CalculationsCR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/CalculationsCR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/CodingChallengeRandomizeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/CodingChallengeRandomizeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/ControlFlowPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/ControlFlowPA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/BitwiseOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/BitwiseOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/CompareToDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/CompareToDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/ConcatDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/ConcatDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/EqualsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/EqualsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/EqualsOperatorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/EqualsOperatorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/LogicalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/LogicalOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/RelationalOperatorsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/RelationalOperatorsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/SplitDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/SplitDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/StringCompareToDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/StringCompareToDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/StringLowerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/StringLowerDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/SubstringsDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/SubstringsDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/TrimDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Demos/TrimDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Java_Basic_Variables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Java_Basic_Variables.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/Java_Operators_and_Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/Java_Operators_and_Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/LoopsPA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/LoopsPA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/PolymorphismAndInheritancePA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/PolymorphismAndInheritancePA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/perscholas/java_basics/PolymorphismAndInterfacePA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/perscholas/java_basics/PolymorphismAndInterfacePA.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,15 +35,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/jd001/IdeaProjects/Class Labs/src/com/perscholas/java_basics/Demos"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/jd001/IdeaProjects/Class Labs/src/com/perscholas/java_basics/Demos&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jd001\IdeaProjects\Class Labs\src\com\perscholas\java_basics\Demos" />
@@ -77,7 +52,7 @@
       <recent name="com.perscholas.java_basics.Demos" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.LengthDemo">
     <configuration name="LengthDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.perscholas.java_basics.Demos.LengthDemo" />
       <module name="Class Labs" />
@@ -162,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682713678432</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Week 4 Work done">
+      <created>1683329224714</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683329224715</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +161,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="week 2 work done" />
     <MESSAGE value="Week 3 Work done" />
-    <option name="LAST_COMMIT_MESSAGE" value="Week 3 Work done" />
+    <MESSAGE value="Week 4 Work done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Week 4 Work done" />
   </component>
 </project>
